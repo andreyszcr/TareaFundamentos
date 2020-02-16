@@ -1,0 +1,9 @@
+
+
+
+mariana;pedrito;azucar;2;0;1
+
+
+andrey;pedrito;sopa;8;0;2
+
+

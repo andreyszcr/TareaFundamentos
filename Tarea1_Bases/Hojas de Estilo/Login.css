@@ -1,0 +1,139 @@
+﻿body 
+{
+        /*ajuste de imagen para fondo de pantalla*/
+        margin: 0;
+        padding:0;
+
+        /*imagen */
+        background-image:url("../Imagenes/iniciarSesion.jpg");
+
+        width:100%;
+
+        height:100vh;
+
+        background-size:cover;
+
+        /*posicion de la imagen*/
+        background-position:center;
+        
+
+        font-family:sans-serif;
+}
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.loginbox {
+    /*posicion*/
+    position: absolute;
+
+    top: 50%;
+    
+    left: 50%;
+    
+    transform: translate(-50%,-50%);
+    
+    width: 350px;
+    
+    height: 420px;
+    
+    padding: 80px 40px;
+    
+    box-sizing: border-box;
+    
+    background: rgba(0,0,0,0.5);
+}
+/*++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.user {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    top: calc(-100px/2);
+    left: calc(50% - 50px);
+    position: absolute;
+}
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.h2
+{
+    padding:0;
+    margin:0;
+    text-align:center;
+    color: rgb(224, 225, 24);
+    
+}
+/*-------------------------------------------------------*/
+.lblpassword, .lblUser
+{
+
+    font-weight: bold;
+    color:#fff;
+}
+/****************************************************************/
+.txtuser, .txtpassword, .btnenter
+{
+    width:100%;
+    margin-bottom:20px;
+
+
+}
+/***************************************************************/
+.txtuser, .txtpassword
+{
+    border:none;
+    border-bottom:3px solid #fff;
+    outline:none;
+    height:40px;
+    color:#fff;
+    font-size:16px;
+
+    /*color transparente*/
+    background-color:transparent;
+}
+/**************************************************************
+*/
+::placeholder 
+{
+    color:rgba(255,255,255,.5);
+}
+/*************************************************************/
+.btnenter
+{
+border:none;
+outline:none;
+height:40px;
+font-size:16px;
+color:#fff;
+background-color: rgb(255, 9, 9);
+cursor:pointer;
+border-radius:20px;
+transition: .3s ease-in-out;
+
+}
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.btnenter:hover 
+{
+    background-color: rgb(255, 217, 9);
+}
+/***************************************************************/
+.btnforget
+{
+    font-size:16px;
+    font-weight:700;
+    text-decoration:none;
+
+    /*color blanco*/
+    color: #fff;
+}
+/***************************************************************/
+.btnRegister {
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+
+    /*color blanco */
+    color: #fff;
+}
+/**************************************************************/
+.btnRegister:hover, .btnforget:hover
+{
+    /*linea para subrayar la linea*/
+    text-decoration:underline;
+}
+/***************************************************************/

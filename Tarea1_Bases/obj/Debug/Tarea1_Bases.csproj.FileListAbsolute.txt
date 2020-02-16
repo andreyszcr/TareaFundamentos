@@ -1,0 +1,77 @@
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\Tarea1_Bases.dll.config
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\Tarea1_Bases.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\Tarea1_Bases.pdb
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\csc.exe
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\csc.exe.config
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\csc.rsp
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\csi.exe
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\csi.rsp
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\System.AppContext.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\vbc.exe
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\vbc.exe.config
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\vbc.rsp
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\obj\Debug\Tarea1_Bases.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\obj\Debug\Tarea1_Bases.csproj.CopyComplete
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\obj\Debug\Tarea1_Bases.dll
+C:\Users\andre\source\repos\Front-end\Tarea1_Bases\obj\Debug\Tarea1_Bases.pdb
+C:\Users\andre\source\repos\Front-End\Tarea1_Bases\bin\CapaNegocios.dll
+C:\Users\andre\source\repos\Front-End\Tarea1_Bases\bin\CapaNegocios.pdb
+C:\Users\andre\source\repos\Front-End\Tarea1_Bases\bin\CapaDatos.dll
+C:\Users\andre\source\repos\Front-End\Tarea1_Bases\bin\CapaDatos.pdb
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\Tarea1_Bases.dll.config
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\Tarea1_Bases.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\Tarea1_Bases.pdb
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\csc.exe
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\csc.exe.config
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\csc.rsp
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\csi.exe
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\csi.rsp
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\System.AppContext.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\vbc.exe
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\vbc.exe.config
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\vbc.rsp
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\CapaNegocios.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\CapaDatos.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\CapaNegocios.pdb
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\CapaDatos.pdb
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\obj\Debug\Tarea1_Bases.csprojResolveAssemblyReference.cache
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\obj\Debug\Tarea1_Bases.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\obj\Debug\Tarea1_Bases.pdb

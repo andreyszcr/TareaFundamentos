@@ -1,0 +1,76 @@
+﻿body 
+{
+    /*ajuste de imagen para fondo de pantalla*/
+    margin: 0;
+    padding: 0;
+    /*imagen */
+    background-image: url("../Imagenes/almacen.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    /*posicion de la imagen*/
+    background-position: center;
+    font-family: sans-serif;
+   
+
+
+    /*ajuste de imagen para fondo de pantalla*/
+    margin: 0;
+    padding: 0;
+    /*imagen */
+    background-image: url("../Imagenes/iniciarSesion.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    /*posicion de la imagen*/
+    background-position: center;
+    font-family: sans-serif;
+}
+
+/**********************************************/
+.* {
+    /*borde del texto*/
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+/* Style the header */
+.header {
+    background-color: #ddd;
+    padding: 20px;
+    /*centrar*/
+    text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
+
+    /* Style the topnav links */
+    .topnav a {
+        float: left;
+        display: block;
+        /*color de la letra*/
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+        /* Change color on hover */
+        .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+
+
+/****************************************************************************/
+
+
+

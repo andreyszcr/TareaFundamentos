@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\Front-End\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\andre\source\repos\Front-End\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\andre\source\repos\Front-End\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Front-End\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\andre\source\repos\Front-End\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\andre\source\repos\Front-End\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\andre\source\repos\Front-End\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\andre\source\repos\Front-End\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaNegocios\obj\Debug\CapaNegocios.pdb
