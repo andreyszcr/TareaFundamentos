@@ -75,3 +75,42 @@ C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\bin\CapaDatos.pdb
 C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\obj\Debug\Tarea1_Bases.csprojResolveAssemblyReference.cache
 C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\obj\Debug\Tarea1_Bases.dll
 C:\Users\Mariana Gonzalez\Desktop\Front-End\Tarea1_Bases\obj\Debug\Tarea1_Bases.pdb
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\Tarea1_Bases.dll.config
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\Tarea1_Bases.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\Tarea1_Bases.pdb
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\csc.exe
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\csc.exe.config
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\csc.rsp
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\csi.exe
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\csi.rsp
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\System.AppContext.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\System.IO.FileSystem.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\vbc.exe
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\vbc.exe.config
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\vbc.rsp
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\VBCSCompiler.exe
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\CapaNegocios.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\CapaDatos.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\CapaNegocios.pdb
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\bin\CapaDatos.pdb
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\obj\Debug\Tarea1_Bases.csprojAssemblyReference.cache
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\obj\Debug\Tarea1_Bases.csproj.CopyComplete
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\obj\Debug\Tarea1_Bases.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\Tarea1_Bases\obj\Debug\Tarea1_Bases.pdb

@@ -26,10 +26,10 @@ namespace CapaDatos
         
 
         //ruta para registrarse 
-        string RutaInventario = @"C:\Users\andre\source\repos\Front-End\inventario.txt";
+        string RutaInventario = @"Archivos\inventario.txt";
 
-        string RutaIniciarSesion = @"C:\Users\andre\source\repos\Front-End\IniciarSesion.txt";
-        string RutaRegistarse = @"C:\Users\andre\source\repos\Front-End\Registrarse.txt";
+        string RutaIniciarSesion = @"Archivos\IniciarSesion.txt";
+        string RutaRegistarse = @"Archivos\Registrarse.txt";
         //**********************************************************************
        
 

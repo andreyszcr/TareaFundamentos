@@ -13,3 +13,11 @@ C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaNegocios\bin\Debug\CapaNegocios.
 C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaNegocios\bin\Debug\CapaDatos.dll
 C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaNegocios\bin\Debug\CapaDatos.pdb
 C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\CapaNegocios\bin\Debug\CapaDatos.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\CapaNegocios\obj\Debug\CapaNegocios.pdb

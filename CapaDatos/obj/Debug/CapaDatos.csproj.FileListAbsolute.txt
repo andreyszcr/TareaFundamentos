@@ -8,3 +8,8 @@ C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaDatos\bin\Debug\CapaDatos.dll
 C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaDatos\bin\Debug\CapaDatos.pdb
 C:\Users\Mariana Gonzalez\Desktop\Front-End\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Documentos\Cursos\Fundamentos de base de datos\TareaFundamentos\CapaDatos\obj\Debug\CapaDatos.pdb
